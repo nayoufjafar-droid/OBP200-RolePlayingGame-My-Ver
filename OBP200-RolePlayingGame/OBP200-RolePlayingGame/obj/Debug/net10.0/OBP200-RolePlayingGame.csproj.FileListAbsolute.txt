@@ -1,0 +1,15 @@
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\obj\Debug\net10.0\OBP200-RolePlayingGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\obj\Debug\net10.0\OBP200-RolePlayingGame.AssemblyInfoInputs.cache
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\obj\Debug\net10.0\OBP200-RolePlayingGame.AssemblyInfo.cs
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\obj\Debug\net10.0\OBP200-RolePlayingGame.csproj.CoreCompileInputs.cache
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\obj\Debug\net10.0\OBP200-RolePlayingGame.sourcelink.json
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\bin\Debug\net10.0\OBP200-RolePlayingGame.exe
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\bin\Debug\net10.0\OBP200-RolePlayingGame.deps.json
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\bin\Debug\net10.0\OBP200-RolePlayingGame.runtimeconfig.json
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\bin\Debug\net10.0\OBP200-RolePlayingGame.dll
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\bin\Debug\net10.0\OBP200-RolePlayingGame.pdb
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\obj\Debug\net10.0\OBP200-RolePlayingGame.dll
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\obj\Debug\net10.0\refint\OBP200-RolePlayingGame.dll
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\obj\Debug\net10.0\OBP200-RolePlayingGame.pdb
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\obj\Debug\net10.0\OBP200-RolePlayingGame.genruntimeconfig.cache
+C:\Users\Test\RiderProjects\OBP200-RolePlayingGame\OBP200-RolePlayingGame\obj\Debug\net10.0\ref\OBP200-RolePlayingGame.dll
